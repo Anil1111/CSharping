@@ -1,0 +1,13 @@
+﻿In C Languages functions
+In C# and OOPS the functions are called methods
+
+Send values in a method are called parameters
+Receive/Need values in a method are called arguments
+
+Method Declaration is function call
+Method Definition is function implementation
+
+
+object.A().B().C()
+
+signiture

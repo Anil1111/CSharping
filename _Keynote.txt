@@ -1,0 +1,28 @@
+Class is smallest unit that cannot be divided further
+When class is instanciated memory block begins to occupy RAM, that is called object initilization
+Object is which occpies space in RAM
+Class will not be executed, method will be execute, so write always execution statements in methods 
+
+The benefit of OOPS is Only  one i.e. Class that is only reusable:
+``````````````````````````````````````````````````````````````````
+Inheritance (Extend Class/Interface) => Customise Existing class with own code
+Polymorphism (Allow methods to exist with same name but with different parameters)(Overide=> Completely Rewrite the method)(Overload=>Selection of respective method from group methods with same name but having different parameters)
+Encapsulation (All modifiers)(Helps to find complietime errors)
+Abstraction (Un implemented methods)(The methods which do not have implementation)
+
+The important Class in C# to use readily are: 
+
+System.Collections=> Stack, Queue, List, Dictionary, ArrayList, SortedList, Dictionary, Hashtable
+System.IO=>File, FileInfo, 
+
+
+String Class:
+`````````````
+Namespace: System
+Assemblies: System.Runtime.dll, mscorlib.dll, netstandard.dll
+
+
+Any Programming Goes in 2 Levels:
+`````````````````````````````````
+1. Design Level  (Usually classes written in for purpose)
+2. Implementation Level (Generally Main() Method where all the written code is been executed)

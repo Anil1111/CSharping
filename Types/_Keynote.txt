@@ -1,0 +1,20 @@
+﻿Types: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/
+``````
+There are two types: 1. Value Type 2. Reference Type
+
+Primitive/Simple DataTypes are the following:
+Interger DataTypes: Byte, Short, int, Long(800l)
+Fractional Datatypes: float(2.2f), decimal(3.4m), double(4.5d)
+
+
+discard means using (_) underscore for unused object =>Deconstruction
+
+.NET Supports structures just like in C Language
+
+Property and Indexer are related topics
+
+
+Built-in types table: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/built-in-types-table
+Value types table: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/value-types-table
+Default values table: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/default-values-table
+Formatting numeric results table: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/formatting-numeric-results-table

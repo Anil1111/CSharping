@@ -1,0 +1,6 @@
+﻿static is keyword, which makes object to be in heap, i.e. the object is accessble to all objects
+static objects allows changes to it unlike const keyword
+
+const is a keyword which doesnot allow change in variable value.
+
+***static means is always public, i.e. it won't accept modifiers (Heap is accessible by all)

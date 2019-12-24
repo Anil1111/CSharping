@@ -1,0 +1,2 @@
+﻿*File* and  *FileInfo* are foundation classes for all file system
+

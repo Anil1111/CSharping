@@ -1,0 +1,8 @@
+﻿//Its just like new object dec;aration like int, float, string, char
+
+callback functions or event handle
+
+//in straight words giving alias name to a method
+
+A function can have one or more parameters of different data types, but what if you want to pass a function itself as a parameter? 
+How does C# handle the callback functions or event handler? The answer is - delegate.

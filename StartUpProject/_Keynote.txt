@@ -1,0 +1,19 @@
+﻿https://www.tutorialsteacher.com/csharp/
+
+Any Keyword can be used as name of members in C# objects by using @ at the beginning
+identifiers
+
+{} empty flower brackets are allowed for readability  anywhere in the code
+
+.cs file is called as source file or class file
+
+All Identifier guidelines follows pascal case except,
+Constants follows capital
+variables & parameters follow camel case
+
+C# is strongly typed means case sensitive
+
+fields, 
+methods, 
+parameters,
+placeholders 

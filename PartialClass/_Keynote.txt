@@ -1,0 +1,4 @@
+﻿Partial Classes works within the smae namespace
+
+Partial class does not allow overloading and overriding which make different from inheritance class rewrite/extension
+

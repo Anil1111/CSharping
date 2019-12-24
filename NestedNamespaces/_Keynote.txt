@@ -1,0 +1,13 @@
+﻿Project => Namespace not vice versa
+
+Every Project in visual studio represents a namespace/pacakage with project name as default namespace name
+
+Every project should only have one Main() method, which may loacte in any nested namespaces in the project, at anywhere in csproj file scope
+
+every project/namespace has independant properties from solution, press f4 on projectfile.csproj
+
+Project can have any number of customized namespaces, and nested namespaces at any depth
+
+Nested namespaces are allowed, no reference and using statements required, if namespaces are within the project
+
+Project name will be default namespace name for every source/class.cs created and rename of project doesnot reset default namespace name.

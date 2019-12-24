@@ -1,0 +1,6 @@
+﻿Class is fundamental unit in programming
+
+Nested classes are allowed, at level of depth
+
+Nested class will allow access specifiers like protected, protected-internal etc.
+
