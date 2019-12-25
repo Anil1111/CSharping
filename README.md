@@ -1,6 +1,9 @@
 CSharping (Title)
 ===
 
+Learning CSharp(C#)
+---
+
 # C# Programming Basics (H1)
 This is a C# Solution, Which covers all essential concepts for Beginner
 
@@ -32,10 +35,12 @@ Connections and Application related to MySQL
 This includes 
 
 ## Firebase (H2)
-This included FireStore and RealTime Databases
+This included 
+Bullet list:
 
-
-
+  * Firestore
+  * Real Time Database
+  * Big Table
 
 
 # C# Example Code (H2)
@@ -53,7 +58,7 @@ This included FireStore and RealTime Databases
 `
 
 # Link
-[Source URI](https://www.kannareddy.com)
+[Source URI](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Blockquote
 > Share and Contribute (Blockquote)
@@ -86,7 +91,12 @@ Here's a sentence with a footnote. [^1]
 **Developed by Kanna Reddy (Bold)** 
 ~~© Copyright 2020 (Strikethrough)~~
  *kannareddy.com (Italic)*
+ `monospace`
+ _emphasize_
 
 
 # Image which is located in Solution Directory of the Repository
 ![C#Solution (Image)](CSharping.jpg)
+
+
+Line Breaks
