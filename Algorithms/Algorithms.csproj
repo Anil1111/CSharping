@@ -58,6 +58,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Graphs\BFS.cs" />
+    <Compile Include="Graphs\DFS.cs" />
     <Compile Include="Maths\BODMAS.cs" />
     <Compile Include="Maths\Evens.cs" />
     <Compile Include="Maths\Factorial.cs" />
@@ -82,8 +84,16 @@
     </Compile>
     <Compile Include="Searching\BinarySearch.cs" />
     <Compile Include="Maths\Equations.cs" />
+    <Compile Include="Searching\LinearSearch.cs" />
     <Compile Include="Sorting\BinarySort.cs" />
+    <Compile Include="Sorting\BubbleSort.cs" />
+    <Compile Include="Sorting\HeapSort.cs" />
+    <Compile Include="Sorting\InsertionSort.cs" />
+    <Compile Include="Sorting\MergeSort.cs" />
+    <Compile Include="Sorting\QuickSort.cs" />
+    <Compile Include="Sorting\SelectionSort.cs" />
     <Compile Include="Stars\Triangles.cs" />
+    <Compile Include="Strings\FirstLetterChangeCase.cs" />
     <Compile Include="Swaping.cs" />
   </ItemGroup>
   <ItemGroup>

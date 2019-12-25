@@ -10,8 +10,11 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            Maths.LCM lCM = new Maths.LCM();
-            lCM.LCMValue();
+            Sorting.BubbleSort bubbleSort = new Sorting.BubbleSort();
+            bubbleSort.Sort();
+
+            //Maths.LCM lCM = new Maths.LCM();
+            //lCM.LCMValue();
 
             //Maths.PrimeNumber primeNumber = new Maths.PrimeNumber();
             //primeNumber.PrimeSeries();
