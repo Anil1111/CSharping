@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms
+namespace Algorithms.Sorting
 {
-    class FibbonacciSeries
+    class BinarySort
     {
     }
 }

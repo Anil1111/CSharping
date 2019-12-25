@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms
+namespace Algorithms.Maths
 {
-    class Temperature
+    class Equations
     {
-        public void CelsiusToFahrenheit()
+        public void Temperature()
         {
             double C, F;
 

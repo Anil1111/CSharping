@@ -58,11 +58,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FibbonacciSeries.cs" />
-    <Compile Include="HCF.cs" />
-    <Compile Include="LCM.cs" />
-    <Compile Include="Palindrome.cs" />
-    <Compile Include="PrimeNumber.cs" />
+    <Compile Include="Maths\Evens.cs" />
+    <Compile Include="Maths\Factorial.cs" />
+    <Compile Include="Maths\FibbonacciSeries.cs" />
+    <Compile Include="Maths\HCF.cs" />
+    <Compile Include="Maths\LCM.cs" />
+    <Compile Include="Maths\Matrix.cs" />
+    <Compile Include="Maths\Odds.cs" />
+    <Compile Include="Maths\Palindrome.cs" />
+    <Compile Include="Maths\PascalTriangle.cs" />
+    <Compile Include="Maths\PrimeNumber.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
@@ -70,8 +75,11 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Include="Settings.cs" />
-    <Compile Include="Temperature .cs" />
+    <Compile Include="Searching\BinarySearch.cs" />
+    <Compile Include="Maths\Equations.cs" />
+    <Compile Include="Sorting\BinarySort.cs" />
+    <Compile Include="Stars\Triangles.cs" />
+    <Compile Include="Swaping.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
