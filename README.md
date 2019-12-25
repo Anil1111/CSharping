@@ -35,8 +35,7 @@ This includes
 This included FireStore and RealTime Databases
 
 
-#Image which is located in Solution Directory
-![C#Solution (Image)](CSharping.jpg)
+
 
 
 # C# Example Code (H2)
@@ -87,3 +86,7 @@ Here's a sentence with a footnote. [^1]
 **Developed by Kanna Reddy (Bold)** 
 ~~© Copyright 2020 (Strikethrough)~~
  *kannareddy.com (Italic)*
+
+
+# Image which is located in Solution Directory of the Repository
+![C#Solution (Image)](CSharping.jpg)
