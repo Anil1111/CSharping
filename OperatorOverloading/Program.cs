@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StaticClass
+namespace OperatorOverloading
 {
-    class MainClass
+    class Program
     {
         static void Main(string[] args)
         {
-            A.AMethod();
-            Console.ReadLine();
-
         }
     }
 }

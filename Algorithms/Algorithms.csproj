@@ -73,7 +73,7 @@
     <Compile Include="Maths\Precedence.cs" />
     <Compile Include="Maths\Prefix.cs" />
     <Compile Include="Maths\PrimeNumber.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>

@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="CopyConstructor.cs" />
     <Compile Include="DefaultConstructor.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Parametrized.cs" />
     <Compile Include="PrivateConstructor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

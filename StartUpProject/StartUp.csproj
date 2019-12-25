@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{68BB4329-3E8F-440C-832A-A7B595D665F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StartUpProject</RootNamespace>
-    <AssemblyName>StartUpProject</AssemblyName>
+    <RootNamespace>StartUp</RootNamespace>
+    <AssemblyName>StartUp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>StartUpProject.MainClass</StartupObject>
+    <StartupObject>StartUp.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -72,7 +72,7 @@
     <Compile Include="HelloWorld.cs" />
     <Compile Include="Identifiers.cs" />
     <Compile Include="Macros.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Modifiers.cs" />
     <Compile Include="PreprocessorDirectives.cs" />
     <Compile Include="PrintOutput.cs" />

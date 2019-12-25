@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="A.cs" />
     <Compile Include="B.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="PartialClassInDifferentNamespaces.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

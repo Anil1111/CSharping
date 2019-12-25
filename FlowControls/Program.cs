@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FlowControls
 {
-    class MainClass
+    class Program
     {
         public static void Main(string[] args)
         {

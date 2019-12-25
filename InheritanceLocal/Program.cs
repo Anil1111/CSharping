@@ -8,7 +8,7 @@ using InheritanceLocal.VirtualKeyword;  //Mandatory
 
 namespace InheritanceLocal
 {
-    class MainClass 
+    class Program
     {
         static void Main(string[] args)
         {

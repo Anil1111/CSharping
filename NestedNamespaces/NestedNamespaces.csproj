@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="_Keynote.txt" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="NestedNamespacesWithTwoMain.cs" />
     <Compile Include="PartialNamespaces.cs" />
     <Compile Include="Period.InNamespaceName.cs" />

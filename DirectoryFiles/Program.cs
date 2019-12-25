@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DirectoryFiles
 {
-    class MainClass
+    class Program
     {  //https://www.tutorialsteacher.com/csharp/csharp-stream-io
         static void Main(string[] args)
         {
