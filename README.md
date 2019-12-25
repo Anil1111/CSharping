@@ -11,11 +11,11 @@ This is a C# Solution, Which covers all essential concepts for Beginner
 - Enum
 - Array
 - Collection
+
 ### This has lot more features (H3)
 ```
 This solution contains many .csproj files (Card)
 ```
-
 
 # C# with Databases (H1)
 This covers connections and data transactons with all major Database Applications
@@ -24,19 +24,22 @@ This covers connections and data transactons with all major Database Application
 3. MongoDB
 4. Firebase(Firestore, RealTime Database)
 ## SQL Server (H2)
+Connections and Application related to SQL Server
 
 ## MySQL (H2)
- 
+Connections and Application related to MySQL
 ## MongoDB (H2)
 This includes 
+
 ## Firebase (H2)
 This included FireStore and RealTime Databases
 
 
+#Image which is located in Solution Directory
 ![C#Solution (Image)](CSharping.jpg)
 
 
-# C# Hidden Hints, Suggestions and Tips (H2)
+# C# Example Code (H2)
 `namespace DataStructures
 {
     class Program
@@ -50,18 +53,18 @@ This included FireStore and RealTime Databases
 (Code)
 `
 
-# License (Horizontal Rule)
----
+#Link
+[Source URI](https://www.kannareddy.com)
 
-**Developed by Kanna Reddy (Bold)** ~~© 2019 (Strikethrough)~~ *kannareddy.com (Italic)*
-[Source URI (Link)](https://www.kannareddy.com)
+#Blockquote
+> Share and Contribute (Blockquote)
 
-	> Share and Contribute (Blockquote)
 
 ### Task List	
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
 
 ### Definition List
 term: definition
@@ -77,3 +80,10 @@ Here's a sentence with a footnote. [^1]
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+# License (Horizontal Rule)
+---
+~~© 2019 (Strikethrough)~~
+**Developed by Kanna Reddy (Bold)** 
+ *kannareddy.com (Italic)*
