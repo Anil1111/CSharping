@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
+    <Compile Include="OperatorPrecedence.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="PrePostIncrement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

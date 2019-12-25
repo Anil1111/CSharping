@@ -58,15 +58,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Maths\BODMAS.cs" />
     <Compile Include="Maths\Evens.cs" />
     <Compile Include="Maths\Factorial.cs" />
     <Compile Include="Maths\FibbonacciSeries.cs" />
     <Compile Include="Maths\HCF.cs" />
+    <Compile Include="Maths\Infix.cs" />
     <Compile Include="Maths\LCM.cs" />
     <Compile Include="Maths\Matrix.cs" />
     <Compile Include="Maths\Odds.cs" />
     <Compile Include="Maths\Palindrome.cs" />
     <Compile Include="Maths\PascalTriangle.cs" />
+    <Compile Include="Maths\Postfix.cs" />
+    <Compile Include="Maths\Precedence.cs" />
+    <Compile Include="Maths\Prefix.cs" />
     <Compile Include="Maths\PrimeNumber.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
