@@ -18,6 +18,10 @@ namespace DataStructures
             node1.Traverse(null);
             node3.DeleteNext(); // delete the node "4"
             node2.Traverse(null);
+
+
+            Console.ReadLine();
+            
         }
     }
 }

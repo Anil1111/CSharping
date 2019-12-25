@@ -1,22 +1,56 @@
-Heading
+CSharping (Title)
 ===
 
-#h1
-##h2
-###h3
+# C# Programming Basics (H1)
+This is a C# Solution, Which covers all essential concepts for Beginner
 
-- leann marked down language
-- use marked language in every repo
-- follow sysntax rules
+## Types (H2)
+- Class (Unordered List)
+- Interface
+- Structure
+- Enum
+- Array
+- Collection
+### This has lot more features (H3)
+```
+This solution contains many .csproj files
+```
 
-TODO: Explain here
 
-*bold* put starts on either sides
+# C# with Databases
+This covers connections and data transactons with all major Database Applications
+1. SQL Server (Ordered List)
+2. MySQL
+3. MongoDB
+4. Firebase(Firestore, RealTime Database)
+## SQL Server
 
-* points
+## MySQL
 
-1. number1
-2. number2
-3. number3
-4. number4
+## MongoDB
+This includes 
+## Firebase
+This included FireStore and RealTime Databases
+
+# C# Hidden Hints, Suggestions and Tips
+`namespace DataStructures
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+`
+
+#The below is a Horizontal Line
+---
+
+**Developed by Kanna Reddy (Bold)**
+*kannareddy.com*
+[Source](https://www.kannareddy.com)
+
+	> blockquote
 
