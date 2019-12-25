@@ -33,7 +33,7 @@ This includes
 This included FireStore and RealTime Databases
 
 
-![CSharp](image.jpg)
+![C#SolutionImage](CSharping.jpg)
 
 
 # C# Hidden Hints, Suggestions and Tips
