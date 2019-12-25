@@ -53,10 +53,10 @@ This included FireStore and RealTime Databases
 (Code)
 `
 
-#Link
+# Link
 [Source URI](https://www.kannareddy.com)
 
-#Blockquote
+# Blockquote
 > Share and Contribute (Blockquote)
 
 
@@ -84,6 +84,6 @@ Here's a sentence with a footnote. [^1]
 
 # License (Horizontal Rule)
 ---
-~~© 2019 (Strikethrough)~~
 **Developed by Kanna Reddy (Bold)** 
+~~© Copyright 2020 (Strikethrough)~~
  *kannareddy.com (Italic)*
