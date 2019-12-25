@@ -10,6 +10,9 @@ namespace StartUp
     {
         public static void Main(string[] args)
         {
+            ReadInput readInput = new ReadInput();
+            readInput.ReadString();
+            //readInput.ReadNumber();
 
             //EmptyFlowerBrackets emptyFlowerBrackets = new EmptyFlowerBrackets();
             //emptyFlowerBrackets.AMethod();

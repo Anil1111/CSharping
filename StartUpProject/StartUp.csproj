@@ -78,6 +78,7 @@
     <Compile Include="PrintOutput.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Prototypes.cs" />
+    <Compile Include="ReadInput.cs" />
     <Compile Include="ScanInput.cs" />
     <Compile Include="ScopeResolution.cs" />
     <Compile Include="ScopeStorageClass.cs" />
