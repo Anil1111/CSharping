@@ -61,7 +61,7 @@
     <Compile Include="EnumType.cs" />
     <Compile Include="Indexer.cs" />
     <Compile Include="InterfaceType.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="NullableType.cs" />
     <Compile Include="Parsing.cs" />
     <Compile Include="PointerType.cs" />

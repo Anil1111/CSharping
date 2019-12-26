@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartUpProject
+namespace StartUp
 {
     //https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated
     class PrintOutput

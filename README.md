@@ -1,22 +1,102 @@
-Heading
+CSharping (Title)
 ===
 
-#h1
-##h2
-###h3
+Learning CSharp(C#)
+---
 
-- leann marked down language
-- use marked language in every repo
-- follow sysntax rules
+# C# Programming Basics (H1)
+This is a C# Solution, Which covers all essential concepts for Beginner
 
-TODO: Explain here
+## Types (H2)
+- Class (Unordered List)
+- Interface
+- Structure
+- Enum
+- Array
+- Collection
 
-*bold* put starts on either sides
+### This has lot more features (H3)
+```
+This solution contains many .csproj files (Card)
+```
 
-* points
+# C# with Databases (H1)
+This covers connections and data transactons with all major Database Applications
+1. SQL Server (Ordered List)
+2. MySQL
+3. MongoDB
+4. Firebase(Firestore, RealTime Database)
+## SQL Server (H2)
+Connections and Application related to SQL Server
 
-1. number1
-2. number2
-3. number3
-4. number4
+## MySQL (H2)
+Connections and Application related to MySQL
+## MongoDB (H2)
+This includes 
 
+## Firebase (H2)
+This included 
+Bullet list:
+
+  * Firestore
+  * Real Time Database
+  * Big Table
+
+
+# C# Example Code (H2)
+`namespace DataStructures
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+(Code)
+`
+
+# Link
+[Source URI](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+# Blockquote
+> Share and Contribute (Blockquote)
+
+
+### Task List	
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
+### Definition List
+term: definition
+
+
+### Footnote
+Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.
+
+
+### Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+# License (Horizontal Rule)
+---
+**Developed by Kanna Reddy (Bold)** 
+~~© Copyright 2020 (Strikethrough)~~
+ *kannareddy.com (Italic)*
+ `monospace`
+ _emphasize_
+
+
+# Image which is located in Solution Directory of the Repository
+![C#Solution (Image)](CSharping.jpg)
+
+
+Line Breaks

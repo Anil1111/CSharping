@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartUpProject
+namespace StartUp
 {
        /* In C# no prototypes are required, since variables declaration and initialization cam happen anyware 
         * unlike C Language where all variables should be declared at the begining of program

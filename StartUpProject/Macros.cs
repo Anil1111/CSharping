@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using A = System.Console;  //Macro
 
-namespace StartUpProject
+namespace StartUp
 {
     class MacrosClass
     {

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartUpProject
+namespace StartUp
 {
     class HelloWorld
-    {
+    { 
         public void HelloWorldMethod()
         {
             Console.WriteLine("Hello World");

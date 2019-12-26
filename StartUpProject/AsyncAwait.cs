@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartUpProject
+namespace StartUp
 {
     //Controlled web page view in blocks on respective button clicks
     //Async loads, Await waits

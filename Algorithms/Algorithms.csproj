@@ -58,20 +58,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FibbonacciSeries.cs" />
-    <Compile Include="HCF.cs" />
-    <Compile Include="LCM.cs" />
-    <Compile Include="Palindrome.cs" />
-    <Compile Include="PrimeNumber.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Graphs\BFS.cs" />
+    <Compile Include="Graphs\DFS.cs" />
+    <Compile Include="Maths\BODMAS.cs" />
+    <Compile Include="Maths\Evens.cs" />
+    <Compile Include="Maths\Factorial.cs" />
+    <Compile Include="Maths\FibbonacciSeries.cs" />
+    <Compile Include="Maths\HCF.cs" />
+    <Compile Include="Maths\Infix.cs" />
+    <Compile Include="Maths\LCM.cs" />
+    <Compile Include="Maths\Matrix.cs" />
+    <Compile Include="Maths\Odds.cs" />
+    <Compile Include="Maths\Palindrome.cs" />
+    <Compile Include="Maths\PascalTriangle.cs" />
+    <Compile Include="Maths\Postfix.cs" />
+    <Compile Include="Maths\Precedence.cs" />
+    <Compile Include="Maths\Prefix.cs" />
+    <Compile Include="Maths\PrimeNumber.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Include="Settings.cs" />
-    <Compile Include="Temperature .cs" />
+    <Compile Include="Searching\BinarySearch.cs" />
+    <Compile Include="Maths\Equations.cs" />
+    <Compile Include="Searching\LinearSearch.cs" />
+    <Compile Include="Sorting\BinarySort.cs" />
+    <Compile Include="Sorting\BubbleSort.cs" />
+    <Compile Include="Sorting\HeapSort.cs" />
+    <Compile Include="Sorting\InsertionSort.cs" />
+    <Compile Include="Sorting\MergeSort.cs" />
+    <Compile Include="Sorting\QuickSort.cs" />
+    <Compile Include="Sorting\SelectionSort.cs" />
+    <Compile Include="Stars\Triangles.cs" />
+    <Compile Include="Strings\FirstLetterChangeCase.cs" />
+    <Compile Include="Swaping.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

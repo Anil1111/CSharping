@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StartUpProject
+namespace StartUp
 {  //Gobal scope, Local Scope, Method/Functional Scope
     class ScopeStorageClass
     {

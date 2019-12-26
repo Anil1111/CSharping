@@ -50,7 +50,7 @@
     <Compile Include="D.cs" />
     <Compile Include="E.cs" />
     <Compile Include="FuncClass.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Predicate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
