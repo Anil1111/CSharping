@@ -18,7 +18,7 @@ namespace StartUp
                 Console.Write("{0} ", i);
             }
             Console.WriteLine();
-        }s
+        }
 
         public void ReadString()
         {
