@@ -1,0 +1,12 @@
+dotnet Framework Runtime and SDK
+
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore21
+
+Basic Startup Console Commands:
+```````````````````````````````
+1. dotnet --help
+2. dotnet new --help
+3. dotnet new console
+4. dotnet build
+5. dotnet run
+6. dotnet add package Microsoft.EntityFrameworkCore.Design
