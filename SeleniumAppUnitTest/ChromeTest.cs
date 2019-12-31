@@ -9,7 +9,7 @@ namespace SeleniumAppUnitTest
 
 
     [TestClass]
-    public class ChromeSample
+    public class ChromeTest
     {
         [TestMethod]
         public void GoogleSearch()
