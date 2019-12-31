@@ -78,9 +78,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExportNugetPackage", "Expor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Test", "UnitTesting.Test\UnitTesting.Test.csproj", "{2812EFA4-A183-4924-81DB-889477F176D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitTask", "AsyncAwaitTask\AsyncAwaitTask.csproj", "{8160F449-30C2-4E25-9B87-CA3668BC2DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitTask", "AsyncAwaitTask\AsyncAwaitTask.csproj", "{8160F449-30C2-4E25-9B87-CA3668BC2DD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitTaskAdvanced", "AsyncAwaitTaskAdvanced\AsyncAwaitTaskAdvanced.csproj", "{5CE7548F-7FF6-4C86-8E40-E78C96C92409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitTaskAdvanced", "AsyncAwaitTaskAdvanced\AsyncAwaitTaskAdvanced.csproj", "{5CE7548F-7FF6-4C86-8E40-E78C96C92409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumAppUnitTest", "SeleniumAppUnitTest\SeleniumAppUnitTest.csproj", "{D7A2A86B-06A0-45E1-84AE-3FAE8C2B82CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -236,6 +238,10 @@ Global
 		{5CE7548F-7FF6-4C86-8E40-E78C96C92409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE7548F-7FF6-4C86-8E40-E78C96C92409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE7548F-7FF6-4C86-8E40-E78C96C92409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A2A86B-06A0-45E1-84AE-3FAE8C2B82CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A2A86B-06A0-45E1-84AE-3FAE8C2B82CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A2A86B-06A0-45E1-84AE-3FAE8C2B82CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A2A86B-06A0-45E1-84AE-3FAE8C2B82CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
