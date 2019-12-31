@@ -1,6 +1,7 @@
 DRY- Dot't repeat yourself
 
 Dependancy Inversion Principle
+Single Responsibility Principle
 
 Measure twice and cut once
 Occam’s Razor
@@ -15,3 +16,5 @@ Principle Of Least Astonishment
 
 
 Design Pattern
+
+Dependancy Injection
