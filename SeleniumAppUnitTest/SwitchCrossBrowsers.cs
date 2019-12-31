@@ -23,13 +23,13 @@ namespace SeleniumAppUnitTest
             driver.Manage().Window.Maximize();
             driver.Navigate().GoToUrl("https://google.com/");
             Thread.Sleep(3000);
-            driver.FindElement(By.XPath("//*[@id='tsf']/div[2]/div/div[1]/div/div[1]/input")).SendKeys("8555814857");
+            driver.FindElement(By.XPath("/html/body/div/div[5]/form/div[2]/div[1]/div[1]/div/div[2]/input")).SendKeys("8555814857");
             Thread.Sleep(3000);
             driver.FindElement(By.XPath("//*[@id='tsf']/div[2]/div/div[3]/center/input[1]")).Click();
             Thread.Sleep(3000);
-            driver.FindElement(By.XPath("//*[@id='tsf']/div[2]/div/div[2]/div/div[1]/input")).Clear();
+            driver.FindElement(By.XPath("/html/body/div[4]/form/div[2]/div[1]/div[2]/div/div[2]/input")).Clear();
             Thread.Sleep(3000);
-            driver.FindElement(By.XPath("//*[@id='tsf']/div[2]/div/div[2]/div/div[1]/input")).SendKeys(ConfigDefQuestion);
+            driver.FindElement(By.XPath("/html/body/div[4]/form/div[2]/div[1]/div[2]/div/div[2]/input")).SendKeys(ConfigDefQuestion);
             Thread.Sleep(3000);
             driver.FindElement(By.XPath("//*[@id='tsf']/div[2]/div/div[2]/button")).Click();
             Thread.Sleep(3000);

@@ -7,7 +7,7 @@ using OpenQA.Selenium.Firefox;
 namespace SeleniumAppUnitTest
 {
     [TestClass]
-    public class FirefoxTest
+    public class FirefoxLaunchTest
     {
         [TestMethod]
         public void GoogleSearch()

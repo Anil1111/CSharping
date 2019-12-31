@@ -58,8 +58,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="SeleniumFeatures.cs" />
-    <Compile Include="ChromeTest.cs" />
-    <Compile Include="FirefoxTest.cs" />
+    <Compile Include="ChromeLaunchTest.cs" />
+    <Compile Include="FirefoxLaunchTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SwitchCrossBrowsers.cs" />
     <Compile Include="SwitchCrossBrowsersTest.cs" />

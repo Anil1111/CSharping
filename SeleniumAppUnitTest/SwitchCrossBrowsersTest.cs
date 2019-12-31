@@ -8,12 +8,11 @@ using OpenQA.Selenium.Firefox;
 namespace SeleniumAppUnitTest
 {
     [TestClass]
-    class SwitchCrossBrowsersTest
+    public class SwitchCrossBrowsersTest
     {
         [TestMethod]
         public void SwitchBrowsers()
         {
-
             string ConfigDefUsername = ConfigurationManager.AppSettings["Username"].ToString();
             string ConfigDefPassword = ConfigurationManager.AppSettings["Password"].ToString();
             string ConfigDefQuestion = ConfigurationManager.AppSettings["Question"].ToString();
