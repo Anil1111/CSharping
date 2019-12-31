@@ -1,0 +1,17 @@
+DRY- Dot't repeat yourself
+
+Dependancy Inversion Principle
+
+Measure twice and cut once
+Occam’s Razor
+
+Keep It Simple Stupid (KISS)
+You Aren’t Gonna Need It (YAGNI)
+S.O.L.I.D.
+
+Big Design Up Front
+Avoid Premature Optimization
+Principle Of Least Astonishment
+
+
+Design Pattern
